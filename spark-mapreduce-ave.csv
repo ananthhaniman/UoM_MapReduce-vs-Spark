@@ -1,0 +1,6 @@
+query,hive,spark
+carrier_delay,10.6,1.5743797302246094
+late_aircraft_delay,10.2,1.5488922119140625
+nas_delay,9.8,1.5658678531646728
+security_delay,10.0,1.3399116039276124
+weather_delay,9.8,1.383339262008667
